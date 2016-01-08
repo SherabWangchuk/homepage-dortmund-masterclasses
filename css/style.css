@@ -1,0 +1,33 @@
+body {
+    color: #222;
+    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-weight: 400;
+}
+
+#Header {
+    font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+#Header h1 {
+    font-size: 32pt;
+}
+
+#Header #Logos img {
+    margin: 20px 20px 0 20px;
+}
+
+#Content {
+    line-height: 1.625;
+    margin: 40px auto;
+    max-width: 640px;
+}
+
+#Content p {
+    text-align: justify;
+}
+
+#Content .block {
+    margin-bottom: 40px;
+}
